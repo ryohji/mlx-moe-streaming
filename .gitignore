@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+# モデル本体(数 GB〜数十 GB)。tools/repack.py で作り直せる
+models/
+# ルーティングログ(合計 55MB)。tools/route_log.py で作り直せる
+analysis/logs/*.npz
+# 進捗表示やトレースバックだけのログ
+*.err

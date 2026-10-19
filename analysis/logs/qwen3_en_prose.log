@@ -1,0 +1,9 @@
+en-01: total 123 tok, 48s
+en-02: total 246 tok, 230s
+en-03: total 459 tok, 294s
+en-04: total 582 tok, 349s
+en-05: total 706 tok, 408s
+en-06: total 885 tok, 469s
+en-07: total 1015 tok, 588s
+en-08: total 1212 tok, 648s
+saved analysis/logs/qwen3_4bit_en_prose.npz: T=1212 L=48 E=128 k=8

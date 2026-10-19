@@ -1,0 +1,11 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+preallocate contiguous=True
+download model-00001-of-00004.safetensors
+done model-00001-of-00004.safetensors
+download model-00002-of-00004.safetensors
+done model-00002-of-00004.safetensors
+download model-00003-of-00004.safetensors
+done model-00003-of-00004.safetensors
+download model-00004-of-00004.safetensors
+done model-00004-of-00004.safetensors
+experts.bin 18.12GB (10240 blobs), resident 1.39GB

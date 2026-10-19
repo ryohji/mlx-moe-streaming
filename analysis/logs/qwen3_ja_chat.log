@@ -1,0 +1,9 @@
+ja-01: total 120 tok, 41s
+ja-02: total 251 tok, 84s
+ja-03: total 384 tok, 137s
+ja-04: total 516 tok, 227s
+ja-05: total 662 tok, 269s
+ja-06: total 799 tok, 315s
+ja-07: total 912 tok, 359s
+ja-08: total 1054 tok, 411s
+saved analysis/logs/qwen3_4bit_ja_chat.npz: T=1054 L=48 E=128 k=8

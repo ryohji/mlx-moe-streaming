@@ -1,0 +1,1 @@
+[WARNING] Generating with a model that requires 12739 MB which is close to the maximum recommended size of 5461 MB. This can be slow. See the documentation for possible work-arounds: https://github.com/ml-explore/mlx-lm/tree/main#large-models

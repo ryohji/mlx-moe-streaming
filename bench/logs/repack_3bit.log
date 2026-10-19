@@ -1,0 +1,8 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+download model-00001-of-00003.safetensors
+done model-00001-of-00003.safetensors
+download model-00002-of-00003.safetensors
+done model-00002-of-00003.safetensors
+download model-00003-of-00003.safetensors
+done model-00003-of-00003.safetensors
+experts.bin 12.68GB (6144 blobs), resident 0.67GB

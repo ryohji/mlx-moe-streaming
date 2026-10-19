@@ -1,0 +1,1 @@
+{"model": "models/qwen3-next-80b-a3b-4bit-smoe", "code": {"tokens": 612, "ppl": 3.251}, "ja_chat": {"tokens": 214, "ppl": 7.638}, "en_prose": {"tokens": 540, "ppl": 6.063}}

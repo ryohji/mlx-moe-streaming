@@ -1,0 +1,3 @@
+total = 4096.00M  used = 2733.12M  free = 1362.88M  (encrypted)
+System-wide memory free percentage: 59%
+total = 4096.00M  used = 3491.88M  free = 604.12M  (encrypted)

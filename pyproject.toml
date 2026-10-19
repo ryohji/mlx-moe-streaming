@@ -1,0 +1,22 @@
+[project]
+name = "mlx-moe-streaming"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "mlx==0.32.3",
+    "mlx-lm==0.32.0",
+    "numpy>=2.5.4",
+]
+
+[project.optional-dependencies]
+bench = [
+    "pyarrow>=26.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

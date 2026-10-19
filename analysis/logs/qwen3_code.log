@@ -1,0 +1,9 @@
+code-01: total 124 tok, 100s
+code-02: total 262 tok, 197s
+code-03: total 393 tok, 301s
+code-04: total 538 tok, 351s
+code-05: total 667 tok, 398s
+code-06: total 934 tok, 461s
+code-07: total 1191 tok, 510s
+code-08: total 1475 tok, 570s
+saved analysis/logs/qwen3_4bit_code.npz: T=1475 L=48 E=128 k=8

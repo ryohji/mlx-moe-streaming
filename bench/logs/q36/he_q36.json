@@ -1,0 +1,1 @@
+{"model": "qwen3.6-35b-a3b-4bit-smoe", "n": 20, "pass_rate": 0.9, "passed": 18, "total_gen_tokens": 4139, "mean_tps": 1.263}

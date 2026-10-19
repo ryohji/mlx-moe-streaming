@@ -1,0 +1,1 @@
+{"model": "qwen3-next-80b-a3b-4bit-smoe", "n": 20, "pass_rate": 0.95, "passed": 19, "total_gen_tokens": 2082, "mean_tps": 0.681}

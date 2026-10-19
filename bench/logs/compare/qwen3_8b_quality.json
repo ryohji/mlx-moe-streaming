@@ -1,0 +1,1 @@
+{"model": "mlx-community/Qwen3-8B-4bit", "code": {"tokens": 612, "ppl": 3.627}, "ja_chat": {"tokens": 214, "ppl": 12.901}, "en_prose": {"tokens": 540, "ppl": 9.071}}

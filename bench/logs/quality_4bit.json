@@ -1,0 +1,1 @@
+{"model": "models/qwen3-30b-a3b-4bit-smoe", "code": {"tokens": 612, "ppl": 3.651}, "ja_chat": {"tokens": 214, "ppl": 11.852}, "en_prose": {"tokens": 540, "ppl": 8.496}}

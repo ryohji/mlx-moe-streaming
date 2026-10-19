@@ -1,0 +1,28 @@
+{
+  "model": "mlx-community/Qwen3-8B-4bit",
+  "mlx": "0.32.3",
+  "load_s": 90.43,
+  "active_gb_after_load": 4.608,
+  "warmup": {
+    "prompt_tokens": 17,
+    "prompt_tps": 5.17,
+    "generation_tokens": 16,
+    "generation_tps": 14.19
+  },
+  "decode": {
+    "prompt_tokens": 17,
+    "prompt_tps": 32.08,
+    "generation_tokens": 128,
+    "generation_tps": 13.37
+  },
+  "prefill": {
+    "prompt_tokens": 989,
+    "prompt_tps": 85.26,
+    "generation_tokens": 16,
+    "generation_tps": 11.96
+  },
+  "mlx_peak_gb": 5.287,
+  "max_rss_gb": 0.955,
+  "swap_used_mb_before": 1589.88,
+  "swap_used_mb_after": 4774.75
+}

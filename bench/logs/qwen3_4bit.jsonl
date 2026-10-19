@@ -1,0 +1,3 @@
+{"cache_gb": 1.63, "cache_pct": 10, "io": "pread", "gen_tps": 1.7, "prefill_tps": 2.7, "hit_rate": 0.444, "read_mb_per_tok": 458.3, "read_s_share": 0.75, "mlx_peak_gb": 2.74, "swap_delta_mb": 303}
+{"cache_gb": 2.45, "cache_pct": 15, "io": "pread", "gen_tps": 1.7, "prefill_tps": 2.2, "hit_rate": 0.5441, "read_mb_per_tok": 375.7, "read_s_share": 0.76, "mlx_peak_gb": 3.55, "swap_delta_mb": 444}
+{"cache_gb": 3.26, "cache_pct": 20, "io": "pread", "gen_tps": 2.1, "prefill_tps": 0.9, "hit_rate": 0.6343, "read_mb_per_tok": 301.4, "read_s_share": 0.59, "mlx_peak_gb": 4.36, "swap_delta_mb": -2388}
