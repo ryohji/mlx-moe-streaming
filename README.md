@@ -142,3 +142,7 @@ PLAN.md          実行計画と、フェーズごとの進捗メモ
 - 内蔵 SSD に 80B / Qwen3.6 を置いた計測はしていません(空き容量が足りないため)。先読みの既定値(専用 1 スレッド)は外付けで決めたもので、内蔵での最適値は未確認です。
 - `smoe/layer.py` は mlx-lm の内部(`switch_layers`、モデルクラスの `__call__`)に依存しています。mlx-lm のバージョンを上げると動かなくなる可能性があります。
 - Qwen3.8-Flash-Next(qwen4_exp)と gpt-oss-120b は未対応です。調査結果は [analysis/model_candidates.md](analysis/model_candidates.md) にあります。
+
+## ライセンス
+
+[MIT](LICENSE)
