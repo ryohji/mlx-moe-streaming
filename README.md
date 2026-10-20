@@ -101,7 +101,8 @@ SMOE_REF=mlx-community/OLMoE-1B-7B-0125-Instruct-4bit SMOE_DIR=models/olmoe-4bit
 ## 構成
 
 ```
-smoe/            ストリーミング MoE の本体(layer / loader / cache)
+smoe/            ストリーミング MoE の本体(layer / loader / cache)と OpenAI 互換サーバー(server)
+docs/            実験記録(目次は docs/README.md)
 tools/           再配置ツール(repack.py)、ルーティング記録(route_log.py)
 analysis/        ルーティング解析(キャッシュのシミュレータ、ワークロード、レポート)
 bench/           ベンチマークのスクリプト、結果の文書、ログ
@@ -134,6 +135,8 @@ PLAN.md          実行計画と、フェーズごとの進捗メモ
    - コード生成は、会話よりキャッシュのヒット率が 15〜25 ポイント低く、生成速度もほぼ半分になります。
 
 比較用のモデル候補は [analysis/model_candidates.md](analysis/model_candidates.md) にまとめています。
+
+これ以降の実験は [docs/](docs/README.md) に 1 実験 1 ファイルで記録しています。
 
 ## 制限と注意
 
